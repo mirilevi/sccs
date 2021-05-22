@@ -1,0 +1,26 @@
+@use 'colors';
+$font-stack:OpenSansHebrew, Helvetica, Arial, Sans-Serif;
+
+%style-button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.pinkButton{
+    @extend  %style-button;
+    background-color: colors.$pink-color;
+}
+.redButton2{
+    @extend  %style-button;
+    background-color: colors.$red-color;
+}
+.blueButton3{
+    @extend  %style-button;
+    background-color: colors.$blue-color;
+}
+
+

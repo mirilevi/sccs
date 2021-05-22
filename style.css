@@ -1,0 +1,32 @@
+.button3, .button2, .button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+body {
+  direction: rtl;
+  font-family: OpenSansHebrew, Helvetica, Arial, Sans-Serif;
+  overflow-x: hidden;
+  width: 100%;
+  text-align: center;
+}
+
+
+.button {
+  background-color: #dd5875;
+}
+
+.button2 {
+  background-color: #e91515;
+}
+
+.button3 {
+  background-color: #041346;
+}
+
+/*# sourceMappingURL=style.css.map */

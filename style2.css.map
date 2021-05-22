@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "sourceRoot": "",
+    "sources": [
+        "styleForm.scss",
+        "colors.scss"
+    ],
+    "names": [],
+    "mappings": "AAGI;EACI;EACA;EACA;EACA;EACA;EACA,kBCJM;EDKN;EACA;EACA",
+    "file": "style2.css"
+}
